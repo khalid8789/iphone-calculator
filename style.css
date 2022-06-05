@@ -1,0 +1,305 @@
+.body{
+    background-color: black;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   background-color: black;
+   
+   height: 100vh; 
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.answers{
+    border-radius: 30px;
+    padding: 16px;
+    display: grid;
+    grid-template-columns: repeat(4, 70px);
+    
+}
+
+#inputtext{
+   grid-column: span 4;
+   height: 68px;
+    width: 258px;
+    border: none;
+    border-radius: 32px;
+    color:#fff;
+    text-align: end;
+    margin: 40px 0px 30px 0;
+    padding: 20px;
+    font-size: 40px;
+    background-color: black;
+    
+}
+button{
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+}
+.conatiner1{
+    border-radius: 50%;
+    background-color: gray;
+    color: black;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    position: relative;
+    right: 1px;
+    cursor: pointer;
+
+}
+.conatiner2{
+    border-radius: 50%;
+    background-color: gray;
+    color: black;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    cursor: pointer;
+
+}
+.conatiner3{
+    border-radius: 50%;
+    background-color: gray;
+    color: black;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    position: relative;
+    left: 35px;
+    cursor: pointer;
+    position: relative;
+    left: 5px;
+
+}
+.conatiner4{
+    border-radius: 50%;
+    background-color:orange ;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+.conatiner5{
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 30px;
+    cursor:pointer;
+
+}
+.conatiner6{
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+.conatiner7{
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+.conatiner8{
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 30px;
+    cursor: pointer;
+    position: relative;
+    left: 68px;
+
+}
+.conatiner9{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    position: relative;
+     left: 75px;
+}
+.conatiner10{
+    border-radius: 50px;
+    background-color: gray;
+    color: white;
+    width: 120px;
+    text-align: center;
+    justify-content: center;
+    height: 40px;
+    margin: 5px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+   
+}
+.conatiner10 :hover{
+    background-color: black;
+}
+.conatiner11{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner12{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner13{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner14{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner15{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner16{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner17{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner18{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.conatiner19{
+    border-radius: 50%;
+    background-color: gray;
+    color: white;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+
